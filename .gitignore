@@ -3,3 +3,6 @@
 
 # Ignore node_modules in the Frontend directory
 /Frontend/node_modules
+
+
+.env
